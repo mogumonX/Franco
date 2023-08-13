@@ -31,7 +31,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Modo Matamoros",
-                "uniques": ["[+2] Movement <for [Land] units>", "[-15]% maintenance costs <for [Land] units>"],
+                "uniques": ["30% Strength <for [Melee] units>", "[+2] Movement <for [Land] units>", "[-15]% maintenance costs <for [Land] units>"],
 		
 		"cities": ["Manolo City","Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 		"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
