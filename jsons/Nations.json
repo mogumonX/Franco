@@ -27,7 +27,7 @@
 		"afterPeace": "Demasiada guerra me quita tiempo para matar gitanos, tío.",
 		"tradeRequest": "Que la paella nos acompañe.",
 
-		"outerColor": [239, 180, 0],
+		"outerColor": [255, 252, 3],
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Modo Matamoros",
