@@ -6,8 +6,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "",
-		"startIntroPart2": "",
+		"startIntroPart1": "ESPAÑAAAAAAA",
+		"startIntroPart2": "Abajo moros, Arriba España.",
 		
 		"declaringWar": "La alianza Manolo ha decidido que tienes que perecer.",
 		"attacked": "Que la reina Isabel se apíade de tí, porqué la armada matamoros se encargará de hundirte hasta las cenizas.",
@@ -31,7 +31,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Modo Matamoros",
-"uniques": ["+60% Strength when fighting City-State units and cities", "[+2] Movement <for [Land] units>"], "[-15]% maintenance costs <for [Land] units>"],
+                "uniques": ["+60% Strength when fighting City-State units and cities", "[+2] Movement <for [Land] units>"], "[-15]% maintenance costs <for [Land] units>"],
 		"cities": ["Manolo City","Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 		"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
 		"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
