@@ -31,7 +31,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Modo Matamoros",
-                "uniques": ["30% Strength <for [Melee] units>", "[+2] Movement <for [Land] units>", "[-15]% maintenance costs <for [Land] units>"],
+                "uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.", "[+1 Food, +3 culture, +2 Gold, +2 Production] from every [Horses]", "[+1] Movement <for [Land] units>", "[+40]% Production towards any buildings that already exist in the Capital", "[-50]% Unhappiness from [Population] [in all cities]"], "[-25]% maintenance costs <for [Land] units>"],
 		
 		"cities": ["Manolo City","Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 		"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
