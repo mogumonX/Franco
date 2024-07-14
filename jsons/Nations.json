@@ -31,7 +31,7 @@
 		"innerColor": [234,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Modo Matamoros",
-                "uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [2] turns.", "[+3 Culture, +2 Food, +3 Production] from every [Pasture]", "[+1] Movement <for [Land] units>", "[+80]% Production towards any buildings that already exist in the Capital", "[+3 Culture, +2 Food] from every [Camp]", "[-50]% Unhappiness from [Population] [in all cities]", "[-25]% maintenance costs <for [Land] units>"],
+                "uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [2] turns.", "[+6 Culture, +7 Food, +5 Production] from every [Pasture]", "[+2] Movement <for [Land] units>", "[+200]% Production towards any buildings that already exist in the Capital", "[+1 Culture, +6 Food, +6 Production] from every [Camp]", "[-100]% Unhappiness from [Population] [in all cities]", "[-75]% maintenance costs <for [Land] units>"],
 		
 		"cities": ["Manolo City","Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
 		"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
